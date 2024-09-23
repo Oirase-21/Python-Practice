@@ -1,0 +1,5 @@
+print(' Well this is pretty easy so far')
+print ('hopefully this math works')
+print(4*8)
+print(4+99)
+print("if you want to put words and numbers you need the quotations and a comma", 45+10)
